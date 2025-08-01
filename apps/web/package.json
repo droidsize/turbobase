@@ -37,7 +37,7 @@
     "react-hook-form": "^7.54.2",
     "require-in-the-middle": "^7.5.2",
     "sharp": "^0.34.2",
-    "shiki": "^3.4.2",
+    "shiki": "^3.9.1",
     "sonner": "^1.7.0",
     "zod": "^3.25.28"
   },
